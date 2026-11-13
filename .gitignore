@@ -1,0 +1,8 @@
+venv/
+__pycache__/
+*.pyc
+comparison.db
+comparison_backup.db
+*.sqlite
+*.sqlite3
+loading_strategies_backup.py
